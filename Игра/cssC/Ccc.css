@@ -1,0 +1,418 @@
+.ccc.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  min-height: 584px;
+  background-color: #393852;
+}
+.ccc .title {
+  position: absolute;
+  top: 73.5px;
+  right: auto;
+  bottom: auto;
+  left: 422px;
+  display: flex;
+  align-items: center;
+  width: 925px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title1 {
+  position: absolute;
+  top: 323.5px;
+  right: auto;
+  bottom: auto;
+  left: 1341px;
+  display: flex;
+  align-items: center;
+  width: 94px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title2 {
+  position: absolute;
+  top: 271.5px;
+  right: auto;
+  bottom: auto;
+  left: 1325px;
+  display: flex;
+  align-items: center;
+  width: 112px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title3 {
+  position: absolute;
+  top: 271.5px;
+  right: auto;
+  bottom: auto;
+  left: 1494px;
+  display: flex;
+  align-items: center;
+  width: 212px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title4 {
+  position: absolute;
+  top: 271.5px;
+  right: auto;
+  bottom: auto;
+  left: 452px;
+  display: flex;
+  align-items: center;
+  width: 178px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title11 {
+  position: absolute;
+  top: 225.5px;
+  right: auto;
+  bottom: auto;
+  left: 466px;
+  display: flex;
+  align-items: center;
+  width: 149px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title12 {
+  position: absolute;
+  top: 225.5px;
+  right: auto;
+  bottom: auto;
+  left: 660px;
+  display: flex;
+  align-items: center;
+  width: 257px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title13 {
+  position: absolute;
+  top: 225.5px;
+  right: auto;
+  bottom: auto;
+  left: 938px;
+  display: flex;
+  align-items: center;
+  width: 132px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title14 {
+  position: absolute;
+  top: 225.5px;
+  right: auto;
+  bottom: auto;
+  left: 1114px;
+  display: flex;
+  align-items: center;
+  width: 132px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title15 {
+  position: absolute;
+  top: 225.5px;
+  right: auto;
+  bottom: auto;
+  left: 1278px;
+  display: flex;
+  align-items: center;
+  width: 205px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title16 {
+  position: absolute;
+  top: 223.5px;
+  right: auto;
+  bottom: auto;
+  left: 1538px;
+  display: flex;
+  align-items: center;
+  width: 135px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #6da0ff;
+  letter-spacing: -1px;
+}
+.ccc .title5 {
+  position: absolute;
+  top: 271.5px;
+  right: auto;
+  bottom: auto;
+  left: 1101px;
+  display: flex;
+  align-items: center;
+  width: 145px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title6 {
+  position: absolute;
+  top: 420.5px;
+  right: auto;
+  bottom: auto;
+  left: 920px;
+  display: flex;
+  align-items: center;
+  width: 178px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title7 {
+  position: absolute;
+  top: 384.5px;
+  right: auto;
+  bottom: auto;
+  left: 159px;
+  display: flex;
+  align-items: center;
+  width: 130px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title8 {
+  position: absolute;
+  top: 271.5px;
+  right: auto;
+  bottom: auto;
+  left: 938px;
+  display: flex;
+  align-items: center;
+  width: 132px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title9 {
+  position: absolute;
+  top: 323.5px;
+  right: auto;
+  bottom: auto;
+  left: 662px;
+  display: flex;
+  align-items: center;
+  width: 223px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title10 {
+  position: absolute;
+  top: 273.5px;
+  right: auto;
+  bottom: auto;
+  left: 709px;
+  display: flex;
+  align-items: center;
+  width: 111px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title17 {
+  position: absolute;
+  top: 319.5px;
+  right: auto;
+  bottom: auto;
+  left: 930px;
+  display: flex;
+  align-items: center;
+  width: 157px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .title18 {
+  position: absolute;
+  top: 367.5px;
+  right: auto;
+  bottom: auto;
+  left: 930px;
+  display: flex;
+  align-items: center;
+  width: 167px;
+  height: 41px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.ccc .image {
+  position: absolute;
+  top: 191px;
+  right: 1510px;
+  bottom: 200px;
+  left: 5px;
+  width: 405px;
+  height: 193px;
+}
+.ccc .image1 {
+  position: absolute;
+  top: 152px;
+  right: 491px;
+  bottom: 350px;
+  left: 1347px;
+  width: 82px;
+  height: 82px;
+}
+.ccc .image2 {
+  position: absolute;
+  top: 155px;
+  right: 880px;
+  bottom: 359px;
+  left: 968px;
+  width: 72px;
+  height: 70px;
+}
+.ccc .image3 {
+  position: absolute;
+  top: 152px;
+  right: 702px;
+  bottom: 359px;
+  left: 1141px;
+  width: 77px;
+  height: 73px;
+}
+.ccc .image4 {
+  position: absolute;
+  top: 146px;
+  right: 269px;
+  bottom: 361px;
+  left: 1566px;
+  width: 85px;
+  height: 77px;
+}
+.ccc .decorator {
+  position: absolute;
+  top: 335px;
+  right: 49px;
+  bottom: 0px;
+  left: 1651px;
+  width: 220px;
+  height: 249px;
+}
+<body class="flex-column">
+    <div class="ccc root">
+        
+        <h1 class="title">Команда,создающая и поддерживающая данный проект:</h1>
+        <h1 class="title1">Илья</h1>
+        <h1 class="title2">Роман</h1>
+        <h1 class="title3">Александр Д.</h1>
+        <h1 class="title4">Святослав</h1>
+        <h1 class="title11">Прогеры</h1>
+        <h1 class="title12">Разработчики</h1>
+        <h1 class="title13">Дизайн</h1>
+        <h1 class="title14">Звукач</h1>
+        <h1 class="title15">Менеджеры</h1>
+        <h1 class="title16">ДО и ТЗ</h1>
+        <h1 class="title5">Алексей</h1>
+        <h1 class="title6">Станислав</h1>
+        <h1 class="title7">Михаил</h1>
+        <h1 class="title8">Евгений</h1>
+        <h1 class="title9">Александр Н.</h1>
+        <h1 class="title10">Денис</h1>
+        <h1 class="title17">Никита Ф.</h1>
+        <h1 class="title18">Никита М.</h1>
+        <img class="image" src="./assets/7c6ce27170d8169449f3a17b23c1bac0.png" alt="alt text" /><img class="image1" src="./assets/40b59d50a3ad55a23f88c8d25eee97d0.png" alt="alt text" /><img class="image2" src="./assets/2050f56135e87b39b87d29ff280e1916.png" alt="alt text" /><img class="image3" src="./assets/b84b9ae8484bb93366e991fa62440a61.png" alt="alt text" /><img class="image4" src="./assets/f1daf38d3800d86f09ef3c817d2a876b.png" alt="alt text" /><img class="decorator" src="./assets/f2fd625313d2548ae3984e1eeb3e2be3.png" alt="alt text" />
+    </div>
+    <script type="text/javascript">
+        AOS.init();
+        new Sticky('.sticky-effect');
+    </script>
+</body>
+<body class="flex-column">
+    <div class="ddd root">
+        
+        <div class="rect"></div>
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <img class="image" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image1" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image2" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image3" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image4" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image5" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image6" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image7" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image8" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image9" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image10" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image11" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image12" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image13" src="./assets/8684918b768805df7e154247bdc60689.svg" alt="alt text" /><img class="image14" src="./assets/3c661336964e4fdb331370d26eec70b4.svg" alt="alt text" />
+        <h1 class="title">
+            Эта игра просто великолепна! Геймплей очень захватывающий, а король с молотом действительно выглядит
+            величественно. Убивать нечисть никогда не было таким увлекательным!
+        </h1>
+        <h1 class="title1">
+            Графика в игре выполнена на очень высоком уровне, каждый уровень прекрасно проработан. Мне нравится, как король
+            бегает и мчится с молотом, мощно убивая всех своих врагов!
+        </h1>
+        <h1 class="title2">
+            Игра отлично подходит для тех, кто любит платформеры и экшен. Борьба с нечистью действительно вызывает
+            адреналин, особенно когда король прыгает и размахивает своим огромным молотом!
+        </h1>
+        <img class="image15" src="./assets/91a2dd053c86bb770647fadd19a0e038.svg" alt="alt text" /><img class="image16" src="./assets/2d7c32249c1980d7b5c59414f7e949df.svg" alt="alt text" /><img class="image17" src="./assets/43290b679928585ccb2dc6466b1bbb7a.svg" alt="alt text" /><img class="image18" src="./assets/7c3fb12e35f88d9c4ced9ef93fcd467f.svg" alt="alt text" />
+    </div>
+    <script type="text/javascript">
+        AOS.init();
+        new Sticky('.sticky-effect');
+    </script>
+</body>
+<body class="flex-column">
+    <div class="eee root">
+        
+        <h1 class="hero_title">На основе сюжета нашей игры есть визуальная новелла</h1>
+        <div class="rect"></div>
+        <h3 class="subtitle">перейди по ссылке, чтобы посмотреть</h3>
+        <img class="image" src="./assets/9e9e0e9a7d0e6beaf1884cf4110b7885.svg" alt="alt text" /><img class="image3" src="./assets/3c0f3e20056185a81caed87172c1f251.svg" alt="alt text" />
+    </div>
+    <script type="text/javascript">
+        AOS.init();
+        new Sticky('.sticky-effect');
+    </script>
+</body>
+<body class="flex-column">
+    <div class="fff root">
+        
+        <div class="line"></div>
+        <div class="line1"></div>
+        <h1 class="hero_title">Knight</h1>
+        <h1 class="hero_title1">quest</h1>
+        <img class="image" src="./assets/56d2c04e127db2d1f16061f54b549697.png" alt="alt text" /><img class="image1" src="./assets/ff0d2d74d0906768511ab4b9af92d334.png" alt="alt text" />
+        <h1 class="title">Оставить отзыв</h1>
+        <h1 class="title1">Размещение рекламы в нашей игре</h1>
+        <h2 class="medium_title">2024 “Knight quest” от название компании. ПО содержит рекламу</h2>
+        <h2 class="medium_title1">наш Discord</h2>
+        <h2 class="medium_title2">Сотрудничество</h2>
+    </div>
+    <script type="text/javascript">
+        AOS.init();
+        new Sticky('.sticky-effect');
+    </script>
+</body>
+
+</html>

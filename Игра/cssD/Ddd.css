@@ -1,0 +1,246 @@
+.ddd.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  min-height: 584px;
+  background-color: #393852;
+}
+.ddd .rect {
+  position: absolute;
+  top: 0px;
+  right: 1368px;
+  bottom: 77px;
+  left: 149px;
+  width: 403px;
+  height: 507px;
+  background-color: #bb5249;
+  border-radius: 50px 50px 50px 50px;
+}
+.ddd .rect1 {
+  position: absolute;
+  top: 0px;
+  right: 775px;
+  bottom: 77px;
+  left: 742px;
+  width: 403px;
+  height: 507px;
+  background-color: #bb5249;
+  border-radius: 50px 50px 50px 50px;
+}
+.ddd .rect2 {
+  position: absolute;
+  top: 0px;
+  right: 149px;
+  bottom: 77px;
+  left: 1368px;
+  width: 403px;
+  height: 507px;
+  background-color: #bb5249;
+  border-radius: 50px 50px 50px 50px;
+}
+.ddd .image {
+  position: absolute;
+  top: 61px;
+  right: 1689px;
+  bottom: 475px;
+  left: 183px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image1 {
+  position: absolute;
+  top: 61px;
+  right: 1617px;
+  bottom: 475px;
+  left: 255px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image2 {
+  position: absolute;
+  top: 61px;
+  right: 1545px;
+  bottom: 475px;
+  left: 327px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image3 {
+  position: absolute;
+  top: 61px;
+  right: 1473px;
+  bottom: 475px;
+  left: 399px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image4 {
+  position: absolute;
+  top: 61px;
+  right: 469px;
+  bottom: 475px;
+  left: 1403px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image5 {
+  position: absolute;
+  top: 61px;
+  right: 397px;
+  bottom: 475px;
+  left: 1475px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image6 {
+  position: absolute;
+  top: 61px;
+  right: 325px;
+  bottom: 475px;
+  left: 1547px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image7 {
+  position: absolute;
+  top: 61px;
+  right: 253px;
+  bottom: 475px;
+  left: 1619px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image8 {
+  position: absolute;
+  top: 61px;
+  right: 181px;
+  bottom: 475px;
+  left: 1691px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image9 {
+  position: absolute;
+  top: 61px;
+  right: 1106px;
+  bottom: 475px;
+  left: 766px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image10 {
+  position: absolute;
+  top: 61px;
+  right: 1034px;
+  bottom: 475px;
+  left: 838px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image11 {
+  position: absolute;
+  top: 61px;
+  right: 962px;
+  bottom: 475px;
+  left: 910px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image12 {
+  position: absolute;
+  top: 61px;
+  right: 890px;
+  bottom: 475px;
+  left: 982px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image13 {
+  position: absolute;
+  top: 61px;
+  right: 818px;
+  bottom: 475px;
+  left: 1054px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .image14 {
+  position: absolute;
+  top: 61px;
+  right: 1401px;
+  bottom: 475px;
+  left: 471px;
+  width: 48px;
+  height: 48px;
+}
+.ddd .title {
+  position: absolute;
+  top: 131px;
+  right: auto;
+  bottom: auto;
+  left: 179px;
+  width: 345px;
+  height: 340px;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.ddd .title1 {
+  position: absolute;
+  top: 131px;
+  right: auto;
+  bottom: auto;
+  left: 760px;
+  width: 342px;
+  height: 340px;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.ddd .title2 {
+  position: absolute;
+  top: 131px;
+  right: auto;
+  bottom: auto;
+  left: 1382px;
+  width: 376px;
+  height: 306px;
+  font: 800 28px/1.21 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.ddd .image15 {
+  position: absolute;
+  top: 228px;
+  right: 63px;
+  bottom: 314px;
+  left: 1840px;
+  width: 17px;
+  height: 42px;
+}
+.ddd .image16 {
+  position: absolute;
+  top: 270px;
+  right: 63px;
+  bottom: 272px;
+  left: 1840px;
+  width: 17px;
+  height: 42px;
+}
+.ddd .image17 {
+  position: absolute;
+  top: 228px;
+  right: 1841px;
+  bottom: 314px;
+  left: 62px;
+  width: 17px;
+  height: 42px;
+}
+.ddd .image18 {
+  position: absolute;
+  top: 270px;
+  right: 1841px;
+  bottom: 272px;
+  left: 62px;
+  width: 17px;
+  height: 42px;
+}

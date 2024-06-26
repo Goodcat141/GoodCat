@@ -1,0 +1,66 @@
+.eee.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  min-height: 584px;
+  background-color: #393852;
+}
+.eee .hero_title {
+  position: absolute;
+  top: 19px;
+  right: auto;
+  bottom: auto;
+  left: 65px;
+  display: flex;
+  align-items: center;
+  width: 1790px;
+  height: 96px;
+  font: 800 60px/1.63 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.eee .rect {
+  position: absolute;
+  top: 245px;
+  right: 572px;
+  bottom: 245px;
+  left: 571px;
+  width: 777px;
+  height: 94px;
+  background-color: #bb5249;
+  border-radius: 26px 26px 26px 26px;
+}
+.eee .subtitle {
+  position: absolute;
+  top: 267px;
+  right: auto;
+  bottom: auto;
+  left: 758px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 404px;
+  height: 50px;
+  font: 800 20px/2.5 "Inter", Helvetica, Arial, serif;
+  color: #f4fbfd;
+  text-align: center;
+}
+.eee .image {
+  position: absolute;
+  top: 116px;
+  right: 1398px;
+  bottom: 312px;
+  left: 403px;
+  width: 119px;
+  height: 156px;
+}
+.eee .image3 {
+  position: absolute;
+  top: 142px;
+  right: 314px;
+  bottom: 296px;
+  left: 1439px;
+  width: 167px;
+  height: 146px;
+}

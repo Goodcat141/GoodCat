@@ -1,0 +1,280 @@
+.fff.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: auto;
+  min-height: 269px;
+  background-color: #2c2b3d;
+}
+.fff .line {
+  position: absolute;
+  top: 23px;
+  right: 45px;
+  bottom: 245px;
+  left: 47px;
+  width: 1828px;
+  height: 1px;
+  background-color: white;
+}
+.fff .line1 {
+  position: absolute;
+  top: 181px;
+  right: 46px;
+  bottom: 88px;
+  left: 46px;
+  width: 1828px;
+  height: 0px;
+  background-color: white;
+}
+.fff .hero_title {
+  position: absolute;
+  top: 69px;
+  right: auto;
+  bottom: auto;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  width: 226px;
+  height: 22px;
+  font: 800 48px/0.45 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.fff .hero_title1 {
+  position: absolute;
+  top: 113.5px;
+  right: auto;
+  bottom: auto;
+  left: 205px;
+  display: flex;
+  align-items: center;
+  width: 184px;
+  height: 22px;
+  font: 800 48px/0.45 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+}
+.fff .image {
+  position: absolute;
+  top: 40px;
+  right: 1571px;
+  bottom: 156px;
+  left: 246px;
+  width: 103px;
+  height: 73px;
+}
+.fff .image1 {
+  position: absolute;
+  top: 77px;
+  right: 1716px;
+  bottom: 126px;
+  left: 124px;
+  width: 80px;
+  height: 66px;
+}
+.fff .title {
+  position: absolute;
+  top: 76.5px;
+  right: auto;
+  bottom: auto;
+  left: 696px;
+  display: flex;
+  align-items: center;
+  width: 396px;
+  height: 22px;
+  font: 800 32px/0.68 "Inter", Helvetica, Arial, serif;
+  color: white;
+}
+.fff .title1 {
+  position: absolute;
+  top: 76.5px;
+  right: auto;
+  bottom: auto;
+  left: 1021px;
+  display: flex;
+  align-items: center;
+  width: 596px;
+  height: 22px;
+  font: 800 32px/0.68 "Inter", Helvetica, Arial, serif;
+  color: white;
+}
+.fff .medium_title {
+  position: absolute;
+  top: 211.5px;
+  right: auto;
+  bottom: auto;
+  left: 47px;
+  display: flex;
+  align-items: center;
+  width: 1092px;
+  height: 22px;
+  font: italic 700 24px/0.91 "Inter", Helvetica, Arial, serif;
+  color: white;
+}
+.fff .medium_title1 {
+  position: absolute;
+  top: 211.5px;
+  right: auto;
+  bottom: auto;
+  left: 1287px;
+  display: flex;
+  align-items: center;
+  width: 525px;
+  height: 22px;
+  font: italic 700 24px/0.91 "Inter", Helvetica, Arial, serif;
+  color: white;
+}
+.fff .medium_title2 {
+  position: absolute;
+  top: 211.5px;
+  right: auto;
+  bottom: auto;
+  left: 1025px;
+  display: flex;
+  align-items: center;
+  width: 525px;
+  height: 22px;
+  font: italic 700 24px/0.91 "Inter", Helvetica, Arial, serif;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bbb.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  height: 515px;
+  min-height: 515px;
+  background: var(--src) center center/100% 100% no-repeat;
+}
+.bbb .decorator {
+  position: absolute;
+  top: 0px;
+  right: auto;
+  bottom: auto;
+  left: 0px;
+  width: 1000px;
+  height: 515px;
+}
+.bbb .title_box {
+  position: absolute;
+  top: 172px;
+  right: auto;
+  bottom: auto;
+  left: 1161px;
+  display: flex;
+  align-items: center;
+  width: 703px;
+  height: 14px;
+}
+.bbb .title {
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.bbb .title_span0 {
+  font: 800 1em/1.28 "Inter", Helvetica, Arial, serif;
+}
+.bbb .title_span1 {
+  font: 800 1em/1.12 "Inter", Helvetica, Arial, serif;
+}
+.bbb .title1 {
+  position: absolute;
+  top: 22px;
+  right: auto;
+  bottom: auto;
+  left: 1161px;
+  display: flex;
+  align-items: center;
+  width: 681px;
+  height: 164px;
+  font: 800 32px/1.28 "Inter", Helvetica, Arial, serif;
+  color: #b9d0fb;
+  letter-spacing: -1px;
+}
+.bbb .decorator1 {
+  position: absolute;
+  top: 267px;
+  right: auto;
+  bottom: auto;
+  left: 485px;
+  width: 480px;
+  height: 248px;
+}
+.bbb .decorator2 {
+  position: absolute;
+  top: 267px;
+  right: auto;
+  bottom: auto;
+  left: 966px;
+  width: 130px;
+  height: 248px;
+}
+.bbb .image1 {
+  position: absolute;
+  top: 113px;
+  right: 963px;
+  bottom: 249px;
+  left: 485px;
+  width: 472px;
+  height: 153px;
+}
+.bbb .image2 {
+  position: absolute;
+  top: 4px;
+  right: 963px;
+  bottom: 404px;
+  left: 487px;
+  width: 470px;
+  height: 107px;
+}
+.bbb .image3 {
+  position: absolute;
+  top: 4px;
+  right: 824px;
+  bottom: 404px;
+  left: 958px;
+  width: 138px;
+  height: 107px;
+}
+.bbb .image4 {
+  position: absolute;
+  top: 112px;
+  right: 824px;
+  bottom: 249px;
+  left: 958px;
+  width: 138px;
+  height: 154px;
+}
